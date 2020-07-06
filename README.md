@@ -2,4 +2,7 @@
 
 $ git clone https://github.com/shilkova-p/auth.git
 
-$ nodemon run server
+$ npm install
+
+$ npm i bcryptjs body-parser concurrently express is-empty jsonwebtoken mongoose passport passport-jwt validator
+
